@@ -23,6 +23,7 @@ Nehakushwaha12/portfolio-
 ## 🧑‍💻 About Me
 
 ```javascript
+const neha = {
 
   name     : "Neha Kushwaha",
   location : "📍 Gorakhpur, Uttar Pradesh",
