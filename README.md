@@ -77,7 +77,7 @@ const neha = {
 | Emoji | Project | Description | Tech |
 |-------|---------|-------------|------|
 | 🏥 | **Healthcare Management System** | Web-based system for managing patients, appointments, and records | `HTML` `CSS` `Java` `JSP/Servlet` `MySQL` |
-| 🛒 | **E-commerce Website (Flipkart Clone)** | Fully responsive shopping UI with product listing and cart system | `HTML` `CSS` `JavaScript` |
+| 🛒 | **E-commerce Website (Flipkart Clone)** | Fully responsive shopping UI with product listing and cart system | `react.js` `node.js` `mongoDB` |
 | 🔐 | **Login & Registration System** | Secure authentication system with form validation | `JavaScript` `React` (Learning) |
 
 </div>
